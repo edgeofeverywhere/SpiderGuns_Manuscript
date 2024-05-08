@@ -1,0 +1,1114 @@
+"success","rt","trial_type","trial_index","time_elapsed","internal_node_id","unique_identifier","subject_id","study_id","session_id","stimulus","response","timeout","failed_images","failed_audio","failed_video","task","time_manipulation","respondedwhen","correctresponse","targetimagelocation","blocktype","correct","roundtype"
+"true","1367","fullscreen","0","2377","0.0-0.0","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","","","","","","","","","","","","","",""
+"","4208","html-keyboard-response","1","6586","0.0-1.0","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","instruction screen 0","arrowright","","","","","","","","","","","",""
+"true","","preload","2","9027","0.0-2.0","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","","","false","[]","[]","[]","","","","","","","",""
+"","7626","html-keyboard-response","3","16654","0.0-3.0","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","instruction screen 1","arrowright","","","","","","","","","","","",""
+"","6379","html-keyboard-response","4","23034","0.0-4.0","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","instruction screen 2","q","","","","","","","","","","","",""
+"","4062","html-keyboard-response","5","27097","0.0-5.0","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","instruction screen 3","p","","","","","","","","","","","",""
+"","7878","html-keyboard-response","6","34975","0.0-6.0","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","instruction screen 4"," ","","","","","","","","","","","",""
+"","3208","html-keyboard-response","7","38184","0.0-7.0","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","instruction screen 5"," ","","","","","","","","","","","",""
+"","null","html-keyboard-response","8","38688","0.0-8.0","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","9","39190","0.0-9.0-0.0","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1444","html-keyboard-response","10","40635","0.0-9.0-1.0","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","p","","","","","Phylogenetic_Distractor_notarget","3000","ongrid"," ","5","Phylogenetic","false","practice"
+"","null","html-keyboard-response","11","40797","0.0-9.0-2.0","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","12","42004","0.0-9.0-3.0","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","feedback screen","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","13","42519","0.0-9.0-0.1","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","906","html-keyboard-response","14","43425","0.0-9.0-1.1","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid"," ","","","","","Ontogenetic_Distractor_notarget","2900","ongrid"," ","2","Phylogenetic","true","practice"
+"","null","html-keyboard-response","15","43586","0.0-9.0-2.1","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","16","44799","0.0-9.0-3.1","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","feedback screen","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","17","45303","0.0-9.0-0.2","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1276","html-keyboard-response","18","46578","0.0-9.0-1.2","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid"," ","","","","","Phylogenetic_Distractor_Threat_target","2800","ongrid","q","6","Phylogenetic","false","practice"
+"","null","html-keyboard-response","19","46730","0.0-9.0-2.2","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","20","47943","0.0-9.0-3.2","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","feedback screen","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","21","48452","0.0-9.0-0.3","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","2240","html-keyboard-response","22","50692","0.0-9.0-1.3","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","p","","","","","Phylogenetic_Distractor_Nonthreat_target","2700","ongrid","p","9","Phylogenetic","true","practice"
+"","null","html-keyboard-response","23","50845","0.0-9.0-2.3","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","24","52058","0.0-9.0-3.3","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","feedback screen","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","25","52573","0.0-9.0-0.4","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1568","html-keyboard-response","26","54141","0.0-9.0-1.4","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid"," ","","","","","Ontogenetic_Distractor_Threat_target","2600","ongrid","q","1","Phylogenetic","false","practice"
+"","null","html-keyboard-response","27","54293","0.0-9.0-2.4","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","28","55508","0.0-9.0-3.4","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","feedback screen","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","29","56021","0.0-9.0-0.5","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","30","58531","0.0-9.0-1.5","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","2635","html-keyboard-response","31","58665","0.0-9.0-2.5","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","q","","","","","Phylogenetic_Distractor_Threat_target","2500","onmask","q","7","Phylogenetic","true","practice"
+"","null","html-keyboard-response","32","59875","0.0-9.0-3.5","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","feedback screen","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","33","60381","0.0-9.0-0.6","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","2235","html-keyboard-response","34","62618","0.0-9.0-1.6","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid"," ","","","","","Ontogenetic_Distractor_notarget","2400","ongrid"," ","3","Phylogenetic","true","practice"
+"","null","html-keyboard-response","35","62775","0.0-9.0-2.6","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","36","64065","0.0-9.0-3.6","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","feedback screen","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","37","64578","0.0-9.0-0.7","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1206","html-keyboard-response","38","65784","0.0-9.0-1.7","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","q","","","","","Phylogenetic_Distractor_Threat_target","2300","ongrid","q","1","Phylogenetic","true","practice"
+"","null","html-keyboard-response","39","65943","0.0-9.0-2.7","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","40","67149","0.0-9.0-3.7","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","feedback screen","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","41","67651","0.0-9.0-0.8","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1577","html-keyboard-response","42","69228","0.0-9.0-1.8","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","q","","","","","Ontogenetic_Distractor_Threat_target","2200","ongrid","q","3","Phylogenetic","true","practice"
+"","null","html-keyboard-response","43","69387","0.0-9.0-2.8","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","44","70602","0.0-9.0-3.8","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","feedback screen","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","45","71112","0.0-9.0-0.9","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1125","html-keyboard-response","46","72238","0.0-9.0-1.9","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","q","","","","","Ontogenetic_Distractor_Threat_target","2100","ongrid","q","4","Phylogenetic","true","practice"
+"","null","html-keyboard-response","47","72395","0.0-9.0-2.9","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","48","73625","0.0-9.0-3.9","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","feedback screen","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","49","74135","0.0-9.0-0.10","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","50","76145","0.0-9.0-1.10","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","4278","html-keyboard-response","51","78425","0.0-9.0-2.10","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid"," ","","","","","Phylogenetic_Distractor_notarget","2000","onmask"," ","1","Phylogenetic","true","practice"
+"","null","html-keyboard-response","52","79633","0.0-9.0-3.10","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","feedback screen","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","53","80135","0.0-9.0-0.11","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1521","html-keyboard-response","54","81656","0.0-9.0-1.11","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","p","","","","","Ontogenetic_Distractor_Nonthreat_target","1900","ongrid","p","3","Phylogenetic","true","practice"
+"","null","html-keyboard-response","55","81811","0.0-9.0-2.11","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","56","83016","0.0-9.0-3.11","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","feedback screen","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","57","83517","0.0-9.0-0.12","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","58","85333","0.0-9.0-1.12","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","2236","html-keyboard-response","59","85770","0.0-9.0-2.12","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","p","","","","","Phylogenetic_Distractor_Nonthreat_target","1800","onmask","p","5","Phylogenetic","true","practice"
+"","null","html-keyboard-response","60","86972","0.0-9.0-3.12","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","feedback screen","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","61","87474","0.0-9.0-0.13","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1361","html-keyboard-response","62","88835","0.0-9.0-1.13","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","p","","","","","Ontogenetic_Distractor_Nonthreat_target","1700","ongrid","p","9","Phylogenetic","true","practice"
+"","null","html-keyboard-response","63","88999","0.0-9.0-2.13","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","64","90207","0.0-9.0-3.13","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","feedback screen","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","65","90712","0.0-9.0-0.14","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","987","html-keyboard-response","66","91699","0.0-9.0-1.14","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","q","","","","","Phylogenetic_Distractor_Threat_target","1600","ongrid","q","2","Phylogenetic","true","practice"
+"","null","html-keyboard-response","67","91852","0.0-9.0-2.14","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","68","93074","0.0-9.0-3.14","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","feedback screen","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","69","93586","0.0-9.0-0.15","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1347","html-keyboard-response","70","94934","0.0-9.0-1.15","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","p","","","","","Phylogenetic_Distractor_Nonthreat_target","1500","ongrid","p","2","Phylogenetic","true","practice"
+"","null","html-keyboard-response","71","95096","0.0-9.0-2.15","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","72","96311","0.0-9.0-3.15","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","feedback screen","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","73","96812","0.0-9.0-0.16","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1061","html-keyboard-response","74","97873","0.0-9.0-1.16","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","p","","","","","Ontogenetic_Distractor_Nonthreat_target","1400","ongrid","p","1","Phylogenetic","true","practice"
+"","null","html-keyboard-response","75","98027","0.0-9.0-2.16","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","76","99252","0.0-9.0-3.16","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","feedback screen","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","77","99760","0.0-9.0-0.17","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","78","101075","0.0-9.0-1.17","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","2199","html-keyboard-response","79","101974","0.0-9.0-2.17","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","p","","","","","Phylogenetic_Distractor_Nonthreat_target","1300","onmask","p","2","Phylogenetic","true","practice"
+"","null","html-keyboard-response","80","103200","0.0-9.0-3.17","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","feedback screen","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","81","103704","0.0-9.0-0.18","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","882","html-keyboard-response","82","104586","0.0-9.0-1.18","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","q","","","","","Ontogenetic_Distractor_Threat_target","1200","ongrid","q","3","Phylogenetic","true","practice"
+"","null","html-keyboard-response","83","104748","0.0-9.0-2.18","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","84","105967","0.0-9.0-3.18","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","feedback screen","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","85","106471","0.0-9.0-0.19","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1073","html-keyboard-response","86","107545","0.0-9.0-1.19","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","p","","","","","Ontogenetic_Distractor_Nonthreat_target","1100","ongrid","p","9","Phylogenetic","true","practice"
+"","null","html-keyboard-response","87","107702","0.0-9.0-2.19","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","88","108919","0.0-9.0-3.19","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","feedback screen","null","","","","","","","","","","","",""
+"","11269","html-keyboard-response","89","120189","0.0-10.0","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","pre-experimental_briefing"," ","","","","","","","","","","","",""
+"","null","html-keyboard-response","90","122695","0.0-11.0-0.0","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1860","html-keyboard-response","91","124555","0.0-11.0-1.0","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","q","","","","","Phylogenetic_Distractor_Threat_target","2500","ongrid","q","8","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","92","124712","0.0-11.0-2.0","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","93","125421","0.0-11.0-0.1","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1842","html-keyboard-response","94","127263","0.0-11.0-1.1","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","q","","","","","Phylogenetic_Distractor_Nonthreat_target","2500","ongrid","p","5","Phylogenetic","false","experimental"
+"","null","html-keyboard-response","95","127423","0.0-11.0-2.1","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","96","128141","0.0-11.0-0.2","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1353","html-keyboard-response","97","129494","0.0-11.0-1.2","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","p","","","","","Phylogenetic_Distractor_Nonthreat_target","2500","ongrid","p","4","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","98","129656","0.0-11.0-2.2","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","99","130424","0.0-11.0-0.3","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1153","html-keyboard-response","100","131578","0.0-11.0-1.3","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","q","","","","","Phylogenetic_Distractor_Threat_target","2500","ongrid","q","2","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","101","131735","0.0-11.0-2.3","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","102","132440","0.0-11.0-0.4","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1221","html-keyboard-response","103","133662","0.0-11.0-1.4","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","q","","","","","Phylogenetic_Distractor_Nonthreat_target","2500","ongrid","p","2","Phylogenetic","false","experimental"
+"","null","html-keyboard-response","104","133816","0.0-11.0-2.4","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","105","134539","0.0-11.0-0.5","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","831","html-keyboard-response","106","135371","0.0-11.0-1.5","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","q","","","","","Phylogenetic_Distractor_Threat_target","2500","ongrid","q","2","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","107","135526","0.0-11.0-2.5","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","108","136231","0.0-11.0-0.6","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","109","138736","0.0-11.0-1.6","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","2783","html-keyboard-response","110","139019","0.0-11.0-2.6","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","p","","","","","Phylogenetic_Distractor_Nonthreat_target","2500","onmask","p","8","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","111","139736","0.0-11.0-0.7","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1614","html-keyboard-response","112","141350","0.0-11.0-1.7","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","q","","","","","Phylogenetic_Distractor_Nonthreat_target","2500","ongrid","p","4","Phylogenetic","false","experimental"
+"","null","html-keyboard-response","113","141505","0.0-11.0-2.7","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","114","142216","0.0-11.0-0.8","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1699","html-keyboard-response","115","143916","0.0-11.0-1.8","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","p","","","","","Phylogenetic_Distractor_Nonthreat_target","2500","ongrid","p","7","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","116","144074","0.0-11.0-2.8","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","117","144776","0.0-11.0-0.9","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1623","html-keyboard-response","118","146400","0.0-11.0-1.9","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","p","","","","","Phylogenetic_Distractor_Nonthreat_target","2500","ongrid","p","3","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","119","146554","0.0-11.0-2.9","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","120","147259","0.0-11.0-0.10","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","957","html-keyboard-response","121","148217","0.0-11.0-1.10","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","q","","","","","Phylogenetic_Distractor_Threat_target","2500","ongrid","q","2","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","122","148375","0.0-11.0-2.10","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","123","149091","0.0-11.0-0.11","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1762","html-keyboard-response","124","150854","0.0-11.0-1.11","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","q","","","","","Phylogenetic_Distractor_Nonthreat_target","2500","ongrid","p","4","Phylogenetic","false","experimental"
+"","null","html-keyboard-response","125","151005","0.0-11.0-2.11","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","126","151708","0.0-11.0-0.12","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1959","html-keyboard-response","127","153666","0.0-11.0-1.12","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","p","","","","","Phylogenetic_Distractor_Nonthreat_target","2500","ongrid","p","8","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","128","153828","0.0-11.0-2.12","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","129","154534","0.0-11.0-0.13","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","920","html-keyboard-response","130","155454","0.0-11.0-1.13","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","q","","","","","Phylogenetic_Distractor_Threat_target","2500","ongrid","q","1","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","131","155610","0.0-11.0-2.13","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","132","156322","0.0-11.0-0.14","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","2166","html-keyboard-response","133","158487","0.0-11.0-1.14","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","q","","","","","Phylogenetic_Distractor_Nonthreat_target","2500","ongrid","p","7","Phylogenetic","false","experimental"
+"","null","html-keyboard-response","134","158646","0.0-11.0-2.14","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","135","159349","0.0-11.0-0.15","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","2045","html-keyboard-response","136","161394","0.0-11.0-1.15","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","p","","","","","Phylogenetic_Distractor_notarget","2500","ongrid"," ","5","Phylogenetic","false","experimental"
+"","null","html-keyboard-response","137","161548","0.0-11.0-2.15","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","138","162256","0.0-11.0-0.16","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1043","html-keyboard-response","139","163300","0.0-11.0-1.16","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","q","","","","","Phylogenetic_Distractor_Threat_target","2500","ongrid","q","6","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","140","163451","0.0-11.0-2.16","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","141","164164","0.0-11.0-0.17","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","2016","html-keyboard-response","142","166180","0.0-11.0-1.17","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid"," ","","","","","Phylogenetic_Distractor_notarget","2500","ongrid"," ","4","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","143","166336","0.0-11.0-2.17","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","144","167053","0.0-11.0-0.18","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1176","html-keyboard-response","145","168229","0.0-11.0-1.18","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","q","","","","","Phylogenetic_Distractor_Threat_target","2500","ongrid","q","6","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","146","168385","0.0-11.0-2.18","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","147","169088","0.0-11.0-0.19","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1212","html-keyboard-response","148","170301","0.0-11.0-1.19","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","p","","","","","Phylogenetic_Distractor_Nonthreat_target","2500","ongrid","p","8","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","149","170457","0.0-11.0-2.19","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","150","171159","0.0-11.0-0.20","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1229","html-keyboard-response","151","172389","0.0-11.0-1.20","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","q","","","","","Phylogenetic_Distractor_Threat_target","2500","ongrid","q","7","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","152","172550","0.0-11.0-2.20","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","153","173264","0.0-11.0-0.21","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1083","html-keyboard-response","154","174347","0.0-11.0-1.21","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","q","","","","","Phylogenetic_Distractor_Threat_target","2500","ongrid","q","3","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","155","174509","0.0-11.0-2.21","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","156","175223","0.0-11.0-0.22","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1687","html-keyboard-response","157","176911","0.0-11.0-1.22","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","p","","","","","Phylogenetic_Distractor_Nonthreat_target","2500","ongrid","p","8","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","158","177063","0.0-11.0-2.22","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","159","177776","0.0-11.0-0.23","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1236","html-keyboard-response","160","179012","0.0-11.0-1.23","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","q","","","","","Phylogenetic_Distractor_Threat_target","2500","ongrid","q","9","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","161","179167","0.0-11.0-2.23","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","162","179872","0.0-11.0-0.24","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","801","html-keyboard-response","163","180674","0.0-11.0-1.24","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","q","","","","","Phylogenetic_Distractor_Threat_target","2500","ongrid","q","9","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","164","180834","0.0-11.0-2.24","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","165","181551","0.0-11.0-0.25","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1198","html-keyboard-response","166","182749","0.0-11.0-1.25","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","p","","","","","Phylogenetic_Distractor_Nonthreat_target","2500","ongrid","p","3","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","167","182906","0.0-11.0-2.25","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","168","183609","0.0-11.0-0.26","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1171","html-keyboard-response","169","184780","0.0-11.0-1.26","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","q","","","","","Phylogenetic_Distractor_Nonthreat_target","2500","ongrid","p","1","Phylogenetic","false","experimental"
+"","null","html-keyboard-response","170","184930","0.0-11.0-2.26","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","171","185633","0.0-11.0-0.27","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","860","html-keyboard-response","172","186494","0.0-11.0-1.27","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","q","","","","","Phylogenetic_Distractor_Threat_target","2500","ongrid","q","1","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","173","186657","0.0-11.0-2.27","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","174","187377","0.0-11.0-0.28","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","995","html-keyboard-response","175","188373","0.0-11.0-1.28","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","q","","","","","Phylogenetic_Distractor_Threat_target","2500","ongrid","q","8","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","176","188529","0.0-11.0-2.28","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","177","189279","0.0-11.0-0.29","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","178","191779","0.0-11.0-1.29","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","2798","html-keyboard-response","179","192078","0.0-11.0-2.29","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid"," ","","","","","Phylogenetic_Distractor_notarget","2500","onmask"," ","2","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","180","192796","0.0-11.0-0.30","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1194","html-keyboard-response","181","193991","0.0-11.0-1.30","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","q","","","","","Phylogenetic_Distractor_Threat_target","2500","ongrid","q","4","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","182","194155","0.0-11.0-2.30","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","183","194871","0.0-11.0-0.31","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1020","html-keyboard-response","184","195890","0.0-11.0-1.31","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","q","","","","","Phylogenetic_Distractor_Threat_target","2500","ongrid","q","1","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","185","196047","0.0-11.0-2.31","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","186","196789","0.0-11.0-0.32","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1650","html-keyboard-response","187","198440","0.0-11.0-1.32","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","p","","","","","Phylogenetic_Distractor_Nonthreat_target","2500","ongrid","p","5","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","188","198598","0.0-11.0-2.32","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","189","199309","0.0-11.0-0.33","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1198","html-keyboard-response","190","200506","0.0-11.0-1.33","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","q","","","","","Phylogenetic_Distractor_Threat_target","2500","ongrid","q","8","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","191","200668","0.0-11.0-2.33","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","192","201380","0.0-11.0-0.34","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1775","html-keyboard-response","193","203156","0.0-11.0-1.34","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","q","","","","","Phylogenetic_Distractor_Nonthreat_target","2500","ongrid","p","5","Phylogenetic","false","experimental"
+"","null","html-keyboard-response","194","203311","0.0-11.0-2.34","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","195","204019","0.0-11.0-0.35","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1997","html-keyboard-response","196","206016","0.0-11.0-1.35","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid"," ","","","","","Phylogenetic_Distractor_notarget","2500","ongrid"," ","5","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","197","206181","0.0-11.0-2.35","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","198","206896","0.0-11.0-0.36","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1443","html-keyboard-response","199","208339","0.0-11.0-1.36","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","q","","","","","Phylogenetic_Distractor_Threat_target","2500","ongrid","q","8","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","200","208504","0.0-11.0-2.36","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","201","209218","0.0-11.0-0.37","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1004","html-keyboard-response","202","210222","0.0-11.0-1.37","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","p","","","","","Phylogenetic_Distractor_Nonthreat_target","2500","ongrid","p","4","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","203","210375","0.0-11.0-2.37","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","204","211092","0.0-11.0-0.38","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1018","html-keyboard-response","205","212110","0.0-11.0-1.38","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","p","","","","","Phylogenetic_Distractor_Nonthreat_target","2500","ongrid","p","3","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","206","212262","0.0-11.0-2.38","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","207","212977","0.0-11.0-0.39","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1055","html-keyboard-response","208","214033","0.0-11.0-1.39","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","q","","","","","Phylogenetic_Distractor_Threat_target","2500","ongrid","q","8","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","209","214196","0.0-11.0-2.39","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","2043","html-keyboard-response","210","216444","0.0-12.0","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","break screen"," ","","","","","","","","","","","",""
+"","null","html-keyboard-response","211","218961","0.0-13.0-0.0","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1219","html-keyboard-response","212","220179","0.0-13.0-1.0","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","p","","","","","Phylogenetic_Distractor_Nonthreat_target","2500","ongrid","p","7","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","213","220338","0.0-13.0-2.0","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","214","221102","0.0-13.0-0.1","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","735","html-keyboard-response","215","221837","0.0-13.0-1.1","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","p","","","","","Phylogenetic_Distractor_Nonthreat_target","2500","ongrid","p","4","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","216","221994","0.0-13.0-2.1","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","217","222701","0.0-13.0-0.2","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1058","html-keyboard-response","218","223760","0.0-13.0-1.2","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","q","","","","","Phylogenetic_Distractor_Threat_target","2500","ongrid","q","2","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","219","223913","0.0-13.0-2.2","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","220","224635","0.0-13.0-0.3","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1637","html-keyboard-response","221","226272","0.0-13.0-1.3","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid"," ","","","","","Phylogenetic_Distractor_notarget","2500","ongrid"," ","6","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","222","226426","0.0-13.0-2.3","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","223","227179","0.0-13.0-0.4","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1048","html-keyboard-response","224","228226","0.0-13.0-1.4","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","p","","","","","Phylogenetic_Distractor_Nonthreat_target","2500","ongrid","p","1","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","225","228378","0.0-13.0-2.4","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","226","229081","0.0-13.0-0.5","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1565","html-keyboard-response","227","230646","0.0-13.0-1.5","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid"," ","","","","","Phylogenetic_Distractor_notarget","2500","ongrid"," ","3","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","228","230797","0.0-13.0-2.5","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","229","231501","0.0-13.0-0.6","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1534","html-keyboard-response","230","233035","0.0-13.0-1.6","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","q","","","","","Phylogenetic_Distractor_Threat_target","2500","ongrid","q","1","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","231","233191","0.0-13.0-2.6","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","232","233894","0.0-13.0-0.7","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1011","html-keyboard-response","233","234905","0.0-13.0-1.7","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","p","","","","","Phylogenetic_Distractor_Nonthreat_target","2500","ongrid","p","4","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","234","235068","0.0-13.0-2.7","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","235","235785","0.0-13.0-0.8","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","869","html-keyboard-response","236","236654","0.0-13.0-1.8","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","q","","","","","Phylogenetic_Distractor_Threat_target","2500","ongrid","q","5","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","237","236808","0.0-13.0-2.8","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","238","237510","0.0-13.0-0.9","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1342","html-keyboard-response","239","238853","0.0-13.0-1.9","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","p","","","","","Phylogenetic_Distractor_Nonthreat_target","2500","ongrid","p","5","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","240","239016","0.0-13.0-2.9","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","241","239733","0.0-13.0-0.10","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","782","html-keyboard-response","242","240514","0.0-13.0-1.10","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","q","","","","","Phylogenetic_Distractor_Threat_target","2500","ongrid","q","2","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","243","240677","0.0-13.0-2.10","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","244","241393","0.0-13.0-0.11","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1952","html-keyboard-response","245","243344","0.0-13.0-1.11","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","p","","","","","Phylogenetic_Distractor_Nonthreat_target","2500","ongrid","p","7","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","246","243507","0.0-13.0-2.11","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","247","244210","0.0-13.0-0.12","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","968","html-keyboard-response","248","245178","0.0-13.0-1.12","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","p","","","","","Phylogenetic_Distractor_Nonthreat_target","2500","ongrid","p","4","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","249","245336","0.0-13.0-2.12","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","250","246042","0.0-13.0-0.13","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","2019","html-keyboard-response","251","248062","0.0-13.0-1.13","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid"," ","","","","","Phylogenetic_Distractor_notarget","2500","ongrid"," ","2","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","252","248225","0.0-13.0-2.13","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","253","248947","0.0-13.0-0.14","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1381","html-keyboard-response","254","250329","0.0-13.0-1.14","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","q","","","","","Phylogenetic_Distractor_Threat_target","2500","ongrid","q","7","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","255","250486","0.0-13.0-2.14","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","256","251199","0.0-13.0-0.15","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1551","html-keyboard-response","257","252750","0.0-13.0-1.15","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","p","","","","","Phylogenetic_Distractor_Nonthreat_target","2500","ongrid","p","4","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","258","252909","0.0-13.0-2.15","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","259","253625","0.0-13.0-0.16","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1140","html-keyboard-response","260","254765","0.0-13.0-1.16","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","q","","","","","Phylogenetic_Distractor_Threat_target","2500","ongrid","q","9","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","261","254920","0.0-13.0-2.16","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","262","255625","0.0-13.0-0.17","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","908","html-keyboard-response","263","256533","0.0-13.0-1.17","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","q","","","","","Phylogenetic_Distractor_Threat_target","2500","ongrid","q","4","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","264","256684","0.0-13.0-2.17","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","265","257389","0.0-13.0-0.18","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","789","html-keyboard-response","266","258178","0.0-13.0-1.18","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","p","","","","","Phylogenetic_Distractor_Nonthreat_target","2500","ongrid","p","2","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","267","258343","0.0-13.0-2.18","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","268","259062","0.0-13.0-0.19","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","880","html-keyboard-response","269","259942","0.0-13.0-1.19","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","q","","","","","Phylogenetic_Distractor_Threat_target","2500","ongrid","q","6","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","270","260102","0.0-13.0-2.19","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","271","260824","0.0-13.0-0.20","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","723","html-keyboard-response","272","261549","0.0-13.0-1.20","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","q","","","","","Phylogenetic_Distractor_Threat_target","2500","ongrid","q","3","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","273","261714","0.0-13.0-2.20","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","274","262424","0.0-13.0-0.21","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1166","html-keyboard-response","275","263590","0.0-13.0-1.21","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","p","","","","","Phylogenetic_Distractor_Nonthreat_target","2500","ongrid","p","8","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","276","263753","0.0-13.0-2.21","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","277","264469","0.0-13.0-0.22","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","940","html-keyboard-response","278","265410","0.0-13.0-1.22","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","q","","","","","Phylogenetic_Distractor_Threat_target","2500","ongrid","q","8","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","279","265563","0.0-13.0-2.22","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","280","266277","0.0-13.0-0.23","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1464","html-keyboard-response","281","267740","0.0-13.0-1.23","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","p","","","","","Phylogenetic_Distractor_Nonthreat_target","2500","ongrid","p","9","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","282","267891","0.0-13.0-2.23","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","283","268613","0.0-13.0-0.24","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1182","html-keyboard-response","284","269796","0.0-13.0-1.24","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","p","","","","","Phylogenetic_Distractor_Nonthreat_target","2500","ongrid","p","4","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","285","269949","0.0-13.0-2.24","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","286","270652","0.0-13.0-0.25","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1094","html-keyboard-response","287","271746","0.0-13.0-1.25","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","q","","","","","Phylogenetic_Distractor_Threat_target","2500","ongrid","q","7","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","288","271900","0.0-13.0-2.25","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","289","272630","0.0-13.0-0.26","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","844","html-keyboard-response","290","273474","0.0-13.0-1.26","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","p","","","","","Phylogenetic_Distractor_Nonthreat_target","2500","ongrid","p","2","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","291","273637","0.0-13.0-2.26","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","292","274354","0.0-13.0-0.27","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","2497","html-keyboard-response","293","276850","0.0-13.0-1.27","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid"," ","","","","","Phylogenetic_Distractor_notarget","2500","ongrid"," ","4","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","294","277008","0.0-13.0-2.27","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","295","277746","0.0-13.0-0.28","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1468","html-keyboard-response","296","279214","0.0-13.0-1.28","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","q","","","","","Phylogenetic_Distractor_Nonthreat_target","2500","ongrid","p","9","Phylogenetic","false","experimental"
+"","null","html-keyboard-response","297","279365","0.0-13.0-2.28","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","298","280079","0.0-13.0-0.29","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","619","html-keyboard-response","299","280698","0.0-13.0-1.29","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","q","","","","","Phylogenetic_Distractor_Threat_target","2500","ongrid","q","2","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","300","280853","0.0-13.0-2.29","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","301","281555","0.0-13.0-0.30","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1153","html-keyboard-response","302","282710","0.0-13.0-1.30","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","p","","","","","Phylogenetic_Distractor_Nonthreat_target","2500","ongrid","p","3","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","303","282866","0.0-13.0-2.30","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","304","283583","0.0-13.0-0.31","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","2038","html-keyboard-response","305","285622","0.0-13.0-1.31","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","p","","","","","Phylogenetic_Distractor_Nonthreat_target","2500","ongrid","p","9","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","306","285777","0.0-13.0-2.31","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","307","286485","0.0-13.0-0.32","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","967","html-keyboard-response","308","287454","0.0-13.0-1.32","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","q","","","","","Phylogenetic_Distractor_Threat_target","2500","ongrid","q","1","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","309","287636","0.0-13.0-2.32","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","310","288346","0.0-13.0-0.33","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1186","html-keyboard-response","311","289531","0.0-13.0-1.33","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","p","","","","","Phylogenetic_Distractor_Nonthreat_target","2500","ongrid","p","9","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","312","289687","0.0-13.0-2.33","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","313","290397","0.0-13.0-0.34","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","831","html-keyboard-response","314","291229","0.0-13.0-1.34","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","q","","","","","Phylogenetic_Distractor_Threat_target","2500","ongrid","q","1","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","315","291387","0.0-13.0-2.34","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","316","292104","0.0-13.0-0.35","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1530","html-keyboard-response","317","293636","0.0-13.0-1.35","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","q","","","","","Phylogenetic_Distractor_Threat_target","2500","ongrid","q","9","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","318","293789","0.0-13.0-2.35","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","319","294496","0.0-13.0-0.36","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1261","html-keyboard-response","320","295757","0.0-13.0-1.36","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","q","","","","","Phylogenetic_Distractor_Threat_target","2500","ongrid","q","7","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","321","295915","0.0-13.0-2.36","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","322","296618","0.0-13.0-0.37","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1330","html-keyboard-response","323","297948","0.0-13.0-1.37","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","p","","","","","Phylogenetic_Distractor_Nonthreat_target","2500","ongrid","p","8","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","324","298101","0.0-13.0-2.37","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","325","298818","0.0-13.0-0.38","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","1346","html-keyboard-response","326","300165","0.0-13.0-1.38","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","q","","","","","Phylogenetic_Distractor_Threat_target","2500","ongrid","q","4","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","327","300324","0.0-13.0-2.38","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","328","301031","0.0-13.0-0.39","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","907","html-keyboard-response","329","301939","0.0-13.0-1.39","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","q","","","","","Phylogenetic_Distractor_Threat_target","2500","ongrid","q","4","Phylogenetic","true","experimental"
+"","null","html-keyboard-response","330","302097","0.0-13.0-2.39","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1342","html-keyboard-response","331","303640","0.0-14.0","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","break screen"," ","","","","","","","","","","","",""
+"","null","html-keyboard-response","332","306263","0.0-15.0-0.0","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","333","307064","0.0-15.0-1.0","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1879","html-keyboard-response","334","308143","0.0-15.0-2.0","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","q","","","","","Ontogenetic_Distractor_Threat_target","800","onmask","q","3","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","335","308866","0.0-15.0-0.1","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","336","309682","0.0-15.0-1.1","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1350","html-keyboard-response","337","310232","0.0-15.0-2.1","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","p","","","","","Ontogenetic_Distractor_Nonthreat_target","800","onmask","p","9","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","338","310943","0.0-15.0-0.2","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","339","311754","0.0-15.0-1.2","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1367","html-keyboard-response","340","312322","0.0-15.0-2.2","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","p","","","","","Ontogenetic_Distractor_Nonthreat_target","800","onmask","p","7","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","341","313051","0.0-15.0-0.3","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","342","313853","0.0-15.0-1.3","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1527","html-keyboard-response","343","314580","0.0-15.0-2.3","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","p","","","","","Ontogenetic_Distractor_Nonthreat_target","800","onmask","p","7","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","344","315299","0.0-15.0-0.4","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","345","316104","0.0-15.0-1.4","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1488","html-keyboard-response","346","316792","0.0-15.0-2.4","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","p","","","","","Ontogenetic_Distractor_Nonthreat_target","800","onmask","p","1","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","347","317500","0.0-15.0-0.5","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","348","318305","0.0-15.0-1.5","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1255","html-keyboard-response","349","318760","0.0-15.0-2.5","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","q","","","","","Ontogenetic_Distractor_Threat_target","800","onmask","q","7","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","350","319484","0.0-15.0-0.6","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","351","320289","0.0-15.0-1.6","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1237","html-keyboard-response","352","320727","0.0-15.0-2.6","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","p","","","","","Ontogenetic_Distractor_Nonthreat_target","800","onmask","p","1","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","353","321438","0.0-15.0-0.7","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","354","322326","0.0-15.0-1.7","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1319","html-keyboard-response","355","322845","0.0-15.0-2.7","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","p","","","","","Ontogenetic_Distractor_Nonthreat_target","800","onmask","p","9","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","356","323571","0.0-15.0-0.8","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","357","324375","0.0-15.0-1.8","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1331","html-keyboard-response","358","324905","0.0-15.0-2.8","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","q","","","","","Ontogenetic_Distractor_Threat_target","800","onmask","q","8","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","359","325613","0.0-15.0-0.9","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","360","326422","0.0-15.0-1.9","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1284","html-keyboard-response","361","326906","0.0-15.0-2.9","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","p","","","","","Ontogenetic_Distractor_Nonthreat_target","800","onmask","p","9","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","362","327633","0.0-15.0-0.10","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","363","328439","0.0-15.0-1.10","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1239","html-keyboard-response","364","328878","0.0-15.0-2.10","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","q","","","","","Ontogenetic_Distractor_Threat_target","800","onmask","q","7","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","365","329587","0.0-15.0-0.11","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","366","330395","0.0-15.0-1.11","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1260","html-keyboard-response","367","330855","0.0-15.0-2.11","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","p","","","","","Ontogenetic_Distractor_Nonthreat_target","800","onmask","p","7","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","368","331589","0.0-15.0-0.12","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","369","332394","0.0-15.0-1.12","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1596","html-keyboard-response","370","333189","0.0-15.0-2.12","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid"," ","","","","","Ontogenetic_Distractor_notarget","800","onmask"," ","1","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","371","333923","0.0-15.0-0.13","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","372","334732","0.0-15.0-1.13","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1261","html-keyboard-response","373","335194","0.0-15.0-2.13","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","p","","","","","Ontogenetic_Distractor_Nonthreat_target","800","onmask","p","6","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","374","335928","0.0-15.0-0.14","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","375","336730","0.0-15.0-1.14","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1750","html-keyboard-response","376","337680","0.0-15.0-2.14","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","q","","","","","Ontogenetic_Distractor_Threat_target","800","onmask","q","5","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","377","338397","0.0-15.0-0.15","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","378","339209","0.0-15.0-1.15","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1221","html-keyboard-response","379","339630","0.0-15.0-2.15","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","p","","","","","Ontogenetic_Distractor_Nonthreat_target","800","onmask","p","5","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","380","340404","0.0-15.0-0.16","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","381","341205","0.0-15.0-1.16","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1300","html-keyboard-response","382","341706","0.0-15.0-2.16","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","p","","","","","Ontogenetic_Distractor_Nonthreat_target","800","onmask","p","1","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","383","342419","0.0-15.0-0.17","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","384","343221","0.0-15.0-1.17","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1234","html-keyboard-response","385","343656","0.0-15.0-2.17","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","q","","","","","Ontogenetic_Distractor_Threat_target","800","onmask","q","7","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","386","344362","0.0-15.0-0.18","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","387","345178","0.0-15.0-1.18","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1250","html-keyboard-response","388","345628","0.0-15.0-2.18","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","p","","","","","Ontogenetic_Distractor_Nonthreat_target","800","onmask","p","2","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","389","346354","0.0-15.0-0.19","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","390","347186","0.0-15.0-1.19","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1391","html-keyboard-response","391","347778","0.0-15.0-2.19","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","q","","","","","Ontogenetic_Distractor_Threat_target","800","onmask","q","1","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","392","348488","0.0-15.0-0.20","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","393","349290","0.0-15.0-1.20","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1215","html-keyboard-response","394","349705","0.0-15.0-2.20","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","q","","","","","Ontogenetic_Distractor_Threat_target","800","onmask","q","5","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","395","350412","0.0-15.0-0.21","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","396","351297","0.0-15.0-1.21","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1284","html-keyboard-response","397","351781","0.0-15.0-2.21","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","q","","","","","Ontogenetic_Distractor_Threat_target","800","onmask","q","7","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","398","352502","0.0-15.0-0.22","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","399","353316","0.0-15.0-1.22","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1233","html-keyboard-response","400","353749","0.0-15.0-2.22","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","q","","","","","Ontogenetic_Distractor_Threat_target","800","onmask","q","2","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","401","354458","0.0-15.0-0.23","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","402","355333","0.0-15.0-1.23","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1348","html-keyboard-response","403","355881","0.0-15.0-2.23","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid"," ","","","","","Ontogenetic_Distractor_notarget","800","onmask"," ","3","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","404","356583","0.0-15.0-0.24","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","405","357386","0.0-15.0-1.24","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1809","html-keyboard-response","406","358396","0.0-15.0-2.24","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","q","","","","","Ontogenetic_Distractor_Threat_target","800","onmask","q","3","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","407","359119","0.0-15.0-0.25","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","408","359922","0.0-15.0-1.25","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1163","html-keyboard-response","409","360285","0.0-15.0-2.25","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","q","","","","","Ontogenetic_Distractor_Threat_target","800","onmask","q","3","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","410","360999","0.0-15.0-0.26","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","411","361800","0.0-15.0-1.26","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1115","html-keyboard-response","412","362116","0.0-15.0-2.26","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","q","","","","","Ontogenetic_Distractor_Threat_target","800","onmask","q","6","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","413","362817","0.0-15.0-0.27","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","414","363630","0.0-15.0-1.27","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1121","html-keyboard-response","415","363952","0.0-15.0-2.27","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","p","","","","","Ontogenetic_Distractor_Nonthreat_target","800","onmask","p","7","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","416","364666","0.0-15.0-0.28","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","417","365468","0.0-15.0-1.28","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1551","html-keyboard-response","418","366220","0.0-15.0-2.28","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","p","","","","","Ontogenetic_Distractor_Nonthreat_target","800","onmask","p","7","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","419","366938","0.0-15.0-0.29","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","420","367823","0.0-15.0-1.29","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1254","html-keyboard-response","421","368278","0.0-15.0-2.29","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid"," ","","","","","Ontogenetic_Distractor_notarget","800","onmask"," ","8","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","422","369000","0.0-15.0-0.30","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","423","369807","0.0-15.0-1.30","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1104","html-keyboard-response","424","370111","0.0-15.0-2.30","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","q","","","","","Ontogenetic_Distractor_Threat_target","800","onmask","q","5","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","425","370829","0.0-15.0-0.31","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","426","371641","0.0-15.0-1.31","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1162","html-keyboard-response","427","372004","0.0-15.0-2.31","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","p","","","","","Ontogenetic_Distractor_Nonthreat_target","800","onmask","p","7","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","428","372728","0.0-15.0-0.32","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","798","html-keyboard-response","429","373527","0.0-15.0-1.32","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","q","","","","","Ontogenetic_Distractor_Threat_target","800","ongrid","q","2","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","430","373683","0.0-15.0-2.32","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","431","374399","0.0-15.0-0.33","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","432","375199","0.0-15.0-1.33","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1265","html-keyboard-response","433","375664","0.0-15.0-2.33","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","p","","","","","Ontogenetic_Distractor_Nonthreat_target","800","onmask","p","8","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","434","376378","0.0-15.0-0.34","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","435","377180","0.0-15.0-1.34","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1252","html-keyboard-response","436","377632","0.0-15.0-2.34","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","q","","","","","Ontogenetic_Distractor_Threat_target","800","onmask","q","6","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","437","378348","0.0-15.0-0.35","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","438","379151","0.0-15.0-1.35","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1270","html-keyboard-response","439","379620","0.0-15.0-2.35","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid"," ","","","","","Ontogenetic_Distractor_notarget","800","onmask"," ","5","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","440","380335","0.0-15.0-0.36","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","441","381165","0.0-15.0-1.36","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1178","html-keyboard-response","442","381544","0.0-15.0-2.36","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","q","","","","","Ontogenetic_Distractor_Threat_target","800","onmask","q","4","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","443","382262","0.0-15.0-0.37","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","444","383066","0.0-15.0-1.37","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1266","html-keyboard-response","445","383532","0.0-15.0-2.37","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","p","","","","","Ontogenetic_Distractor_Nonthreat_target","800","onmask","p","2","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","446","384236","0.0-15.0-0.38","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","447","385038","0.0-15.0-1.38","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1196","html-keyboard-response","448","385434","0.0-15.0-2.38","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","q","","","","","Ontogenetic_Distractor_Threat_target","800","onmask","q","2","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","449","386153","0.0-15.0-0.39","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","450","386959","0.0-15.0-1.39","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1279","html-keyboard-response","451","387438","0.0-15.0-2.39","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","p","","","","","Ontogenetic_Distractor_Nonthreat_target","800","onmask","p","6","Ontogenetic","true","experimental"
+"","1079","html-keyboard-response","452","388721","0.0-16.0","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","break screen"," ","","","","","","","","","","","",""
+"","null","html-keyboard-response","453","391229","0.0-17.0-0.0","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","454","392042","0.0-17.0-1.0","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1179","html-keyboard-response","455","392422","0.0-17.0-2.0","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","q","","","","","Ontogenetic_Distractor_Threat_target","800","onmask","q","1","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","456","393144","0.0-17.0-0.1","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","457","394054","0.0-17.0-1.1","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1182","html-keyboard-response","458","394436","0.0-17.0-2.1","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","p","","","","","Ontogenetic_Distractor_Nonthreat_target","800","onmask","p","5","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","459","395158","0.0-17.0-0.2","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","460","395972","0.0-17.0-1.2","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1262","html-keyboard-response","461","396434","0.0-17.0-2.2","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid"," ","","","","","Ontogenetic_Distractor_Nonthreat_target","800","onmask","p","7","Ontogenetic","false","experimental"
+"","null","html-keyboard-response","462","397159","0.0-17.0-0.3","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","463","397963","0.0-17.0-1.3","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1565","html-keyboard-response","464","398728","0.0-17.0-2.3","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","p","","","","","Ontogenetic_Distractor_Nonthreat_target","800","onmask","p","6","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","465","399443","0.0-17.0-0.4","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","466","400253","0.0-17.0-1.4","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1128","html-keyboard-response","467","400581","0.0-17.0-2.4","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","q","","","","","Ontogenetic_Distractor_Threat_target","800","onmask","q","5","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","468","401291","0.0-17.0-0.5","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","469","402096","0.0-17.0-1.5","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1183","html-keyboard-response","470","402479","0.0-17.0-2.5","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","q","","","","","Ontogenetic_Distractor_Threat_target","800","onmask","q","3","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","471","403195","0.0-17.0-0.6","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","472","404002","0.0-17.0-1.6","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1224","html-keyboard-response","473","404426","0.0-17.0-2.6","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","q","","","","","Ontogenetic_Distractor_Threat_target","800","onmask","q","8","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","474","405138","0.0-17.0-0.7","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","475","405940","0.0-17.0-1.7","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1136","html-keyboard-response","476","406276","0.0-17.0-2.7","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","q","","","","","Ontogenetic_Distractor_Threat_target","800","onmask","q","3","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","477","406997","0.0-17.0-0.8","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","478","407801","0.0-17.0-1.8","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1141","html-keyboard-response","479","408142","0.0-17.0-2.8","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid"," ","","","","","Ontogenetic_Distractor_notarget","800","onmask"," ","5","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","480","408848","0.0-17.0-0.9","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","481","409651","0.0-17.0-1.9","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1084","html-keyboard-response","482","409935","0.0-17.0-2.9","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","q","","","","","Ontogenetic_Distractor_Threat_target","800","onmask","q","5","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","483","410660","0.0-17.0-0.10","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","484","411465","0.0-17.0-1.10","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1450","html-keyboard-response","485","412115","0.0-17.0-2.10","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","p","","","","","Ontogenetic_Distractor_notarget","800","onmask"," ","9","Ontogenetic","false","experimental"
+"","null","html-keyboard-response","486","412822","0.0-17.0-0.11","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","487","413626","0.0-17.0-1.11","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1334","html-keyboard-response","488","414161","0.0-17.0-2.11","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","p","","","","","Ontogenetic_Distractor_notarget","800","onmask"," ","8","Ontogenetic","false","experimental"
+"","null","html-keyboard-response","489","414879","0.0-17.0-0.12","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","490","415682","0.0-17.0-1.12","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1239","html-keyboard-response","491","416120","0.0-17.0-2.12","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid"," ","","","","","Ontogenetic_Distractor_notarget","800","onmask"," ","9","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","492","416881","0.0-17.0-0.13","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","493","417682","0.0-17.0-1.13","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1372","html-keyboard-response","494","418254","0.0-17.0-2.13","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","q","","","","","Ontogenetic_Distractor_Threat_target","800","onmask","q","8","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","495","418969","0.0-17.0-0.14","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","496","419779","0.0-17.0-1.14","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1248","html-keyboard-response","497","420226","0.0-17.0-2.14","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","q","","","","","Ontogenetic_Distractor_Threat_target","800","onmask","q","6","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","498","421009","0.0-17.0-0.15","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","499","421814","0.0-17.0-1.15","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1127","html-keyboard-response","500","422141","0.0-17.0-2.15","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","q","","","","","Ontogenetic_Distractor_Threat_target","800","onmask","q","8","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","501","422858","0.0-17.0-0.16","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","502","423674","0.0-17.0-1.16","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1143","html-keyboard-response","503","424017","0.0-17.0-2.16","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","q","","","","","Ontogenetic_Distractor_Threat_target","800","onmask","q","1","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","504","424786","0.0-17.0-0.17","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","505","425687","0.0-17.0-1.17","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","909","html-keyboard-response","506","425797","0.0-17.0-2.17","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","q","","","","","Ontogenetic_Distractor_Threat_target","800","onmask","q","8","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","507","426510","0.0-17.0-0.18","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","508","427325","0.0-17.0-1.18","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1094","html-keyboard-response","509","427619","0.0-17.0-2.18","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","q","","","","","Ontogenetic_Distractor_Threat_target","800","onmask","q","6","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","510","428343","0.0-17.0-0.19","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","511","429146","0.0-17.0-1.19","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1133","html-keyboard-response","512","429479","0.0-17.0-2.19","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","p","","","","","Ontogenetic_Distractor_Nonthreat_target","800","onmask","p","4","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","513","430188","0.0-17.0-0.20","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","514","430991","0.0-17.0-1.20","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1134","html-keyboard-response","515","431325","0.0-17.0-2.20","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","q","","","","","Ontogenetic_Distractor_Threat_target","800","onmask","q","3","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","516","432043","0.0-17.0-0.21","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","517","432858","0.0-17.0-1.21","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1050","html-keyboard-response","518","433108","0.0-17.0-2.21","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","q","","","","","Ontogenetic_Distractor_Threat_target","800","onmask","q","3","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","519","433826","0.0-17.0-0.22","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","520","434631","0.0-17.0-1.22","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1091","html-keyboard-response","521","434923","0.0-17.0-2.22","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","q","","","","","Ontogenetic_Distractor_Threat_target","800","onmask","q","5","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","522","435653","0.0-17.0-0.23","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","523","436455","0.0-17.0-1.23","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1154","html-keyboard-response","524","436809","0.0-17.0-2.23","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","p","","","","","Ontogenetic_Distractor_Nonthreat_target","800","onmask","p","9","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","525","437524","0.0-17.0-0.24","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","526","438339","0.0-17.0-1.24","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1450","html-keyboard-response","527","438989","0.0-17.0-2.24","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid"," ","","","","","Ontogenetic_Distractor_Nonthreat_target","800","onmask","p","2","Ontogenetic","false","experimental"
+"","null","html-keyboard-response","528","439696","0.0-17.0-0.25","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","529","440511","0.0-17.0-1.25","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1221","html-keyboard-response","530","440931","0.0-17.0-2.25","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","p","","","","","Ontogenetic_Distractor_Nonthreat_target","800","onmask","p","6","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","531","441638","0.0-17.0-0.26","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","532","442444","0.0-17.0-1.26","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1217","html-keyboard-response","533","442861","0.0-17.0-2.26","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","q","","","","","Ontogenetic_Distractor_Threat_target","800","onmask","q","5","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","534","443587","0.0-17.0-0.27","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","535","444390","0.0-17.0-1.27","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","885","html-keyboard-response","536","444475","0.0-17.0-2.27","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","p","","","","","Ontogenetic_Distractor_Nonthreat_target","800","onmask","p","1","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","537","445202","0.0-17.0-0.28","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","538","446010","0.0-17.0-1.28","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1129","html-keyboard-response","539","446339","0.0-17.0-2.28","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid"," ","","","","","Ontogenetic_Distractor_Nonthreat_target","800","onmask","p","9","Ontogenetic","false","experimental"
+"","null","html-keyboard-response","540","447064","0.0-17.0-0.29","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","546","html-keyboard-response","541","447611","0.0-17.0-1.29","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","image grid","q","","","","","Ontogenetic_Distractor_Threat_target","800","ongrid","q","5","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","542","447769","0.0-17.0-2.29","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+    <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","543","448494","0.0-17.0-0.30","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","544","449302","0.0-17.0-1.30","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1138","html-keyboard-response","545","449640","0.0-17.0-2.30","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","p","","","","","Ontogenetic_Distractor_Nonthreat_target","800","onmask","p","2","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","546","450358","0.0-17.0-0.31","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","547","451161","0.0-17.0-1.31","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1060","html-keyboard-response","548","451420","0.0-17.0-2.31","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","p","","","","","Ontogenetic_Distractor_Nonthreat_target","800","onmask","p","1","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","549","452149","0.0-17.0-0.32","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","550","452954","0.0-17.0-1.32","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1246","html-keyboard-response","551","453401","0.0-17.0-2.32","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","p","","","","","Ontogenetic_Distractor_Nonthreat_target","800","onmask","p","6","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","552","454118","0.0-17.0-0.33","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","553","454921","0.0-17.0-1.33","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1164","html-keyboard-response","554","455287","0.0-17.0-2.33","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","p","","","","","Ontogenetic_Distractor_Nonthreat_target","800","onmask","p","4","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","555","455993","0.0-17.0-0.34","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","556","456801","0.0-17.0-1.34","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1171","html-keyboard-response","557","457172","0.0-17.0-2.34","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","p","","","","","Ontogenetic_Distractor_Nonthreat_target","800","onmask","p","7","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","558","457877","0.0-17.0-0.35","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","559","458678","0.0-17.0-1.35","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1296","html-keyboard-response","560","459175","0.0-17.0-2.35","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid"," ","","","","","Ontogenetic_Distractor_Nonthreat_target","800","onmask","p","3","Ontogenetic","false","experimental"
+"","null","html-keyboard-response","561","459900","0.0-17.0-0.36","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","562","460702","0.0-17.0-1.36","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1075","html-keyboard-response","563","460978","0.0-17.0-2.36","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","p","","","","","Ontogenetic_Distractor_Nonthreat_target","800","onmask","p","2","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","564","461703","0.0-17.0-0.37","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","565","462505","0.0-17.0-1.37","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1101","html-keyboard-response","566","462806","0.0-17.0-2.37","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","q","","","","","Ontogenetic_Distractor_Threat_target","800","onmask","q","3","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","567","463516","0.0-17.0-0.38","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","568","464319","0.0-17.0-1.38","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","893","html-keyboard-response","569","464412","0.0-17.0-2.38","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","p","","","","","Ontogenetic_Distractor_Nonthreat_target","800","onmask","p","6","Ontogenetic","true","experimental"
+"","null","html-keyboard-response","570","465121","0.0-17.0-0.39","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","fixation cross","null","","","","","","","","","","","",""
+"","null","html-keyboard-response","571","465924","0.0-17.0-1.39","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","
+        <div id=""grid-container"">
+        <!-- Grid items will be dynamically added here -->
+    </div>    ","null","","","","","","","","","","","",""
+"","1060","html-keyboard-response","572","466184","0.0-17.0-2.39","GWNzApEI25","63d18647419ae52f5e141607","6617fad957f7c6a12ea16e26","6622ce972dd9c81832be1f1c","mask grid","p","","","","","Ontogenetic_Distractor_Nonthreat_target","800","onmask","p","5","Ontogenetic","true","experimental"
