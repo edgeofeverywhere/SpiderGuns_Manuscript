@@ -1,6 +1,7 @@
 name: Quarto via Nix
 
 on:
+  workflow_dispatch:
   push:
     paths:
       - '**.qmd'
