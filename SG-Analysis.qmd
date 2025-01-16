@@ -183,7 +183,7 @@ Participants experienced a modified version of the experiment in Abado et al. (F
 #| echo: false
 #| fig-cap: (A) Schematic of the visual discrimination task. (B) Example ontogenetic no discrepant stimulus. (C) Example phylogenetic non-threatening discrepant stimulus. (D) Example ontogenetic threatening discrepant stimulus
 
-knitr::include_graphics("./SG-Analysis_files/img/Figure1.jpeg")
+knitr::include_graphics("./img/Figure1.jpeg")
 ```
 
 Within each 3x3 grid, participants saw at least eight distractor images: butterflies in the phylogenetic trials and staplers in the ontogenetic trials. Like Abado et al., we used this number of distractors to give the task some reasonable level of difficulty without being overly taxing. In ten percent of the trials, the ninth image was of another butterfly or spider, meaning participants viewed nine distractor images (Figure 1B). In forty-five percent of the trials, the ninth image was of a bird or old telephone, meaning participants viewed eight distractor images and one non-threatening discrepant image (Figure 1C). In the remaining forty-five percent of the trials, the ninth image was of a spider or gun, meaning participants viewed eight distractor images and one threatening discrepant image (Figure 1D). We were interested in analyzing the ninety percent of trials that contained a discrepant image, but we included the trials without a discrepant image both for true replication and to serve as attention checks. 
