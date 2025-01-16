@@ -1,0 +1,9 @@
+.direnv/
+.vscode/
+.result/
+/tmp/
+/artifacts/
+/result/
+result
+.DS_Store
+.Rhistory

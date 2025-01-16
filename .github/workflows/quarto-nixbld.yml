@@ -1,0 +1,56 @@
+name: Quarto via Nix
+
+on:
+  push:
+    paths:
+      - '**.qmd'
+      - '**.bib'
+      - '**.csl'
+      - '**.scss'
+      - '**.css'
+      - '**.js'
+      - '**.jpeg'
+      - '**.svg'
+      - 'flake.nix'
+      - 'flake.lock'
+      
+  pull_request:
+    paths:
+      - '**.qmd'
+      - '**.bib'
+      - '**.csl'
+      - '**.scss'
+      - '**.css'
+      - '**.js'
+      - '**.jpeg'
+      - '**.svg'
+      - 'flake.nix'
+      - 'flake.lock'
+
+permissions:
+  contents: read
+  packages: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+            
+      - name: Install Nix
+        uses: DeterminateSystems/nix-installer-action@main
+                      
+      - name: Build documents
+        run: |
+          nix build \
+            --show-trace \
+            --verbose
+          mkdir -p artifacts
+          cp -r result/* artifacts/
+          
+      - name: Upload artifacts
+        if: always()
+        uses: actions/upload-artifact@v3
+        with:
+          name: documents-and-logs
+          path: artifacts/

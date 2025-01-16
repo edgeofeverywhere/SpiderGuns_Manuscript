@@ -1,6 +1,44 @@
 ---
-title: "Effective Presentation Time of a Threat: Testing perception vs. judgment in a modified replication of Abado et al. (2023)"
+title: "Effective Presentation Time of a Threat: Testing perception vs. judgment in a modified relication of Abado et al. (2023)"
+csl: apa.csl
 format:
+  pdf:
+    keep-tex: true
+    prefer-html: true
+    clean-tex: true
+    pandoc-args:
+      - --strip-comments
+      - --markdown-headings=atx
+    cite-method: biblatex
+    documentclass: article
+    classoption: 
+      - 12pt
+    template-partials:
+      - title.tex
+    include-in-header:
+      - file: preamble.tex
+    pdf-engine: lualatex
+    biblatexoptions:
+      - style=apa
+      - backend=biber
+    geometry:
+      - margin=1in
+      - top=30mm
+      - bottom=30mm
+      - heightrounded
+    fig-width: 6.5
+    fig-height: 4.5
+    crossref:
+      fig-title: "Figure"
+      tbl-title: "Table"
+      title-delim: ":"
+    latex-clean-unicode: true
+    latex-auto-install: true
+    latex-dir-contains-files: true
+    extra-dependencies:
+      - ["fontenc", "T1"]
+      - ["inputenc", "utf8"]
+      - ["microtype"]
   html:
     code-fold: true
     theme: 
@@ -8,6 +46,7 @@ format:
     - vms.scss
     df-print: kable
 bibliography: bibtexr1.bib
+engine: knitr
 bibliographystyle: apa.csl
 editor: visual
 author:
@@ -16,6 +55,7 @@ author:
     - Zhuo Cen
     - Loren Opbroek
 ---
+
 ```{r setup, include=FALSE}
 library(svglite)
 
@@ -26,15 +66,15 @@ transparent_svg <- function(filename = tempfile(fileext = ".svg"), width = 5, he
 
 ## Abstract
 
-This study aimed to replicate and expand upon Abado et al.'s (2023) finding that adults show an attentional bias, meaning they tend to selectively focus on specific stimuli, toward organically-occurring threats, but not toward threats that are man-made. Similar to the visual discrimination task used in Abado et al., we measured participants' average speeds in identifying images of organically-occurring (phylogenetic) items and man-made (ontogenetic) items that were either threatening or non-threatening. We also sought to investigate whether Abado et al.’s finding is due to judgment processes rather than the “top-down effect” that our beliefs can impact our perception (Firestone & Scholl, 2016). Towards this end, per Firestone and Scholl’s argument that many studies fail to distinguish perceptual processes from judgment processes, we added a shorter stimulus presentation time to the experiment to eliminate the potential for judgment processes to occur. Ultimately, we successfully replicated Abado et al.’s findings in both of the time conditions, although some findings had a smaller effect size or less robust statistical significance than Abado et al.'s did. We suggest that U.S. adults indeed exhibit a tendency to pay more attention to phylogenetic threats than to ontogenetic threats. We also tentatively suggest that this attentional bias is not due to judgment processes, and could potentially be a top-down effect. Among other suggestions, we would like future research to study whether these findings are specific to the images that Abado et al. used and continue the top-down effect investigation with EEG technology.
+This study aimed to replicate and expand upon Abado et al.'s (2023) finding that adults show an attentional bias, meaning they tend to selectively focus on specific stimuli, toward organically-occurring threats, but not toward threats that are man-made. Similar to the visual discrimination task used in Abado et al., we measured participants' average speeds in identifying images of organically-occurring (phylogenetic) items and man-made (ontogenetic) items that were either threatening or non-threatening. We also sought to investigate whether Abado et al.'s finding is due to judgment processes rather than the "top-down effect" that our beliefs can impact our perception (Firestone & Scholl, 2016). Towards this end, per Firestone and Scholl's argument that many studies fail to distinguish perceptual processes from judgment processes, we added a shorter stimulus presentation time to the experiment to eliminate the potential for judgment processes to occur. Ultimately, we successfully replicated Abado et al.'s findings in both of the time conditions, although some findings had a smaller effect size or less robust statistical significance than Abado et al.'s did. We suggest that U.S. adults indeed exhibit a tendency to pay more attention to phylogenetic threats than to ontogenetic threats. We also tentatively suggest that this attentional bias is not due to judgment processes, and could potentially be a top-down effect. Among other suggestions, we would like future research to study whether these findings are specific to the images that Abado et al. used and continue the top-down effect investigation with EEG technology.
 
 ## Introduction
 
 Are certain fears "ready-made" to capture our attention faster than others? Is there a distinction between how people with a fear of snakes perceive snakes and how people with a fear of knives perceive knives? Built upon a history of investigation into the perception of "preparedness" as a category of distinct phobia [@Hugdahl1989; @Seligman1971], a recent visual discrimination experiment from Abado et al. found, in part, that participants identify images of organically-originating threats (spiders) faster than images of man-made threats (guns) [@Abado2023]. Abado et al. used these findings to suggest that attentional biases, the tendencies of individuals to pay more attention to certain stimuli or aspects of their environment over others, may differ between organically-occurring threats and man-made threats. In this study, we intend to discover both whether this finding is replicable and whether it is based solely in perceptual processes.
 
-The theories preceding Abado et al. have largely suggested that there is indeed a difference between perceptions of types of threats. Seligman (1971) theorized in this direction by dividing the origin of fear into phobias, which are highly selective, resistant to change, and often acquired through single exposure event, and laboratory-induced fears, which are conditioned to any stimuli but fade rapidly. Hugdahl & Johnsen (1989) found evidence in support of Seligman's hypothesis, suggesting an attentional bias towards evolutionary (phylogenetic) threats. It is not clear, though, whether this difference is a product of the “top-down effect” that our beliefs can impact our perception, or whether it involves more than perceptual processes [@Firestone2015]. Firestone & Scholl argue that the ostensible top-down effect findings in the literature suffered from pitfalls in the experimental designs, and we think that Abado et al.’s experimental design, in the context of the top-down effect, may have included one such pitfall: because the duration for which participants were shown images was long enough for participants’ perceptual and judgment processes to have occurred before they responded, the observed attention bias could have occurred after perception and therefore would not have been a top-down effect.
+The theories preceding Abado et al. have largely suggested that there is indeed a difference between perceptions of types of threats. Seligman (1971) theorized in this direction by dividing the origin of fear into phobias, which are highly selective, resistant to change, and often acquired through single exposure event, and laboratory-induced fears, which are conditioned to any stimuli but fade rapidly. Hugdahl & Johnsen (1989) found evidence in support of Seligman's hypothesis, suggesting an attentional bias towards evolutionary (phylogenetic) threats. It is not clear, though, whether this difference is a product of the "top-down effect" that our beliefs can impact our perception, or whether it involves more than perceptual processes [@Firestone2015]. Firestone & Scholl argue that the ostensible top-down effect findings in the literature suffered from pitfalls in the experimental designs, and we think that Abado et al.'s experimental design, in the context of the top-down effect, may have included one such pitfall: because the duration for which participants were shown images was long enough for participants' perceptual and judgment processes to have occurred before they responded, the observed attention bias could have occurred after perception and therefore would not have been a top-down effect.
 
-Building upon Abado et al., and considering Firestone and Scholl’s reservations, our modified replication will eliminate the potential for the so-called "perception vs. judgment" pitfall by including an additional condition with a reduced image presentation time of 800ms. Therefore, if the interpretation of Abado et al. holds, we hypothesize that at the original 2500ms stimuli presentation time and the new 800ms time, participants will detect spiders faster than birds and not detect guns faster than telephones. Our repeated measures ANOVA would reflect this by showing an interaction between the origin type of stimulus (phylogenetic/ontogenetic) and discrepant object type (threatening/non-threatening) on reaction time. Our pairwise comparisons would reflect this in our data by showing that participants react significantly faster, on average, to phylogenetic threats relative to phylogenetic non-threats, but do not react significantly faster, on average, to ontogenetic threats compared to ontogenetic non-threats. Thus, this modified replication will help us establish the reliability of Abado et al.’s attention bias findings and provide insights into the underlying cognitive processes involved in phylogenetic and ontogenetic threat detection.
+Building upon Abado et al., and considering Firestone and Scholl's reservations, our modified replication will eliminate the potential for the so-called "perception vs. judgment" pitfall by including an additional condition with a reduced image presentation time of 800ms. Therefore, if the interpretation of Abado et al. holds, we hypothesize that at the original 2500ms stimuli presentation time and the new 800ms time, participants will detect spiders faster than birds and not detect guns faster than telephones. Our repeated measures ANOVA would reflect this by showing an interaction between the origin type of stimulus (phylogenetic/ontogenetic) and discrepant object type (threatening/non-threatening) on reaction time. Our pairwise comparisons would reflect this in our data by showing that participants react significantly faster, on average, to phylogenetic threats relative to phylogenetic non-threats, but do not react significantly faster, on average, to ontogenetic threats compared to ontogenetic non-threats. Thus, this modified replication will help us establish the reliability of Abado et al.'s attention bias findings and provide insights into the underlying cognitive processes involved in phylogenetic and ontogenetic threat detection.
 
 ## Methods
 
@@ -60,27 +100,29 @@ library(RColorBrewer)
 library(systemfonts)
 library(splithalf)
 library(ggthemes)
+library(webshot2)
 ```
 
 ### Participants
 
 ```{r}
-#| label: Download the data
+#| label: Downloads the data. Does not work in nix-based CI, because it is sandboxed by design. Uncomment to download it again.
 #| echo: false
 #| message: false
 #| results: hide
+#| include: false
 
 
-## this downloads data from the OSF if not present in working directory.
-osf_retrieve_node("prsyj") %>%
-  osf_ls_files() %>%
-  osf_download(path="data", conflicts="skips")
+## downloads data from the OSF if not present in working directory.
+# osf_retrieve_node("prsyj") %>%
+#   osf_ls_files() %>%
+#  osf_download(path="data", conflicts="skips")
 
 ```
 
 The Vassar College Institutional Review Board approved this study. We recruited 75 English-speaking participants aged 18 years or older through the online web-recruitment platform Prolific, the same as used in the original study, paying each of them \$2.60 for completing the experiment. All participants were residents of the United States. Though Abado et al. had 144 participants in their final analysis, our sample size was restricted by our budget. 
 
-We had pre-registered that we would exclude participants post-experimentally if they reported a history of neurological disorders or ADHD because Prolific does not allow researchers to screen for this information prior to a participant’s completion of the experiment; however, unfortunately, we did not gather this information and thus were unable to make these exclusions.
+We had pre-registered that we would exclude participants post-experimentally if they reported a history of neurological disorders or ADHD because Prolific does not allow researchers to screen for this information prior to a participant's completion of the experiment; however, unfortunately, we did not gather this information and thus were unable to make these exclusions.
 
 Directly following data collection but before beginning analysis, we gave the applet a once-over. We found an error in our experiment that caused a significant number (n=31) of participants to not receive both the 2500ms and 800ms time condition manipulations for both the phylogenetic and ontogenetic blocks of stimuli. As performing our pre-registered repeated-measures ANOVA analysis required that all individual participants be exposed to all independent variable manipulations, we excluded these participants from data analysis. We excluded the (n=1) participant who failed to respond with any valid keypress greater than 50% of the time.
 
@@ -88,7 +130,7 @@ Directly following data collection but before beginning analysis, we gave the ap
 #| label: "Preprocessing I: Filtering subjects affected by the Java Codebase Error"
 #| message: false
 #| results: hide
-
+#| include: !expr knitr::is_html_output()
 
 ##Load and process behavioral data, filtering out those whom we cannot perform the RMANOVA on because they didn't get all time manipulations across all stimulus blocks
 directory <- "data/Data"
@@ -139,16 +181,16 @@ Participants experienced a modified version of the experiment in Abado et al. (F
 ```{r}
 #| label: fig-one
 #| echo: false
-#| fig-cap: (A) ​​Schematic of the visual discrimination task. (B) Example ontogenetic no discrepant stimulus. (C) Example phylogenetic non-threatening discrepant stimulus. (D) Example ontogenetic threatening discrepant stimulus
+#| fig-cap: (A) Schematic of the visual discrimination task. (B) Example ontogenetic no discrepant stimulus. (C) Example phylogenetic non-threatening discrepant stimulus. (D) Example ontogenetic threatening discrepant stimulus
 
-knitr::include_graphics("/Users/seeker/Documents/rstudio - projects/spiderguns-may1/SG-Analysis_files/img/Figure1.jpeg")
+knitr::include_graphics("./SG-Analysis_files/img/Figure1.jpeg")
 ```
 
 Within each 3x3 grid, participants saw at least eight distractor images: butterflies in the phylogenetic trials and staplers in the ontogenetic trials. Like Abado et al., we used this number of distractors to give the task some reasonable level of difficulty without being overly taxing. In ten percent of the trials, the ninth image was of another butterfly or spider, meaning participants viewed nine distractor images (Figure 1B). In forty-five percent of the trials, the ninth image was of a bird or old telephone, meaning participants viewed eight distractor images and one non-threatening discrepant image (Figure 1C). In the remaining forty-five percent of the trials, the ninth image was of a spider or gun, meaning participants viewed eight distractor images and one threatening discrepant image (Figure 1D). We were interested in analyzing the ninety percent of trials that contained a discrepant image, but we included the trials without a discrepant image both for true replication and to serve as attention checks. 
 
 Participants saw the 3x3 image grid for 2500ms in half of the phylogenetic trials and half of the ontogenetic trials, and 800ms in the other halves. We used 2500ms to replicate Abado et al. and 800ms to address the perception vs. judgment pitfall. We specifically chose 800ms because this was the shortest time frame that still preserved reasonable average accuracy rates of around eighty percent when we piloted our experiment on our peers; thus, we assumed that this time period mitigated the potential for judgment while still allowing participants to perceive stimuli.
 
-After viewing the stimulus, participants saw a randomly generated 3x3 grid of masks for 150ms, whose contents were a flattened gaussian noise distribution. Their screen then remained blank for either 5000ms or until they responded, although participants were able to respond at any time upon a stimulus first appearing on their screen. Participants responded by either pressing the ‘P’ key on their keyboard to indicate that the stimulus contained one different and non-threatening image, the ‘Q’ key to indicate that the stimulus contained one different and threatening image, or the ‘SPACE’ bar to indicate that the stimulus did not contain a different image.
+After viewing the stimulus, participants saw a randomly generated 3x3 grid of masks for 150ms, whose contents were a flattened gaussian noise distribution. Their screen then remained blank for either 5000ms or until they responded, although participants were able to respond at any time upon a stimulus first appearing on their screen. Participants responded by either pressing the "P" key on their keyboard to indicate that the stimulus contained one different and non-threatening image, the "Q" key to indicate that the stimulus contained one different and threatening image, or the "SPACE" bar to indicate that the stimulus did not contain a different image.
 
 We used the *jsPsych* randomization feature to ensure that presentation time, origin type (phylogenetic/ontogenetic), and discrepant type were randomly assigned in every trial. Each image in each 3x3 grid was randomly selected from the bank of images specific to the intended image type (e.g., a grid containing nine phylogenetic distractors randomly selected nine images from the bank of butterfly images). No two trials were visually identical unless by random occurrence.
 
@@ -161,12 +203,12 @@ While Abado et al. used images with white backgrounds and images with complex ba
 We plotted a simple histogram of reaction time (ms), faceted by group and colored according to time conditions, to observe the response distributions and get a better sense of what responses might be considered outliers (Figure 2). Per our pre-registered qualitative approach to exclusion criteria, we looked for any participants whose reaction times, on average, were shorter than the bulk of responses (\<300ms) or longer than the bulk of responses (\>3000ms). No participant fit this criteria; however, as the individual reaction times outside of these thresholds were likely results of errors or unrepresentative of the population, we removed all individual reaction times that were less than 300ms or greater than 3000ms.
 
 ```{r, fig.ext='svg', dev='transparent_svg'}
-#| label: fig-preprocessing
+#| label: preprocessing-ii
 #| description: Plots the sample in terms of response time as a histogram (geom area for filled polygons) to each condition, to set cutoff points.
 #| message: false
+#| echo: false
 #| warning: false
-#| fig-cap: Histograms of reaction times for each trial type of interest. Dotted vertical lines represent the exclusion thresholds.
-
+#| include: !expr knitr::is_html_output()
 
 ## "Preprocessing II: Sample Cutoff Analysis"
 
@@ -188,7 +230,7 @@ none <- ggplot(data_clean_task, aes(x = rt, y = stat(count), fill = factor(time_
   theme_dark(base_size = 8, base_family = "Ubuntu") +
   labs(y = "Count", fill = "Time Manipulation") +
   facet_wrap(~task) +
-  theme(strip.text = element_text(size = 7),
+  theme(strip.text = element_text(size = 6),
         plot.background = element_rect(fill = "transparent", colour = NA),
         panel.background = element_rect(fill = "grey21", colour = NA),
         legend.background = element_rect(fill = "transparent", colour = NA)) +
@@ -197,7 +239,17 @@ none <- ggplot(data_clean_task, aes(x = rt, y = stat(count), fill = factor(time_
            vjust = 1.8, color = "white", size = 1.2, angle = 360, fontface = "italic") +
   annotate("text", x = 3900, y = Inf, label = "max. exclusion threshold (3000ms)", 
            vjust = 1.8, color = "white", size = 1.2, angle = 360, fontface = "italic")
+```
+
+```{r, fig.ext='svg', dev='transparent_svg'}
+#| label: fig-preprocessing
+#| fig-cap: Histograms of reaction times for each trial type of interest. Dotted vertical lines represent the exclusion thresholds.
+#| message: false
+#| echo: false
+#| warning: false
+
 print(none)
+
 ```
 
 ```{r}
@@ -206,6 +258,7 @@ print(none)
 #| message: false
 #| warning: false
 #| results: hide
+#| include: !expr knitr::is_html_output()
 
 filtered.data <- data_clean %>%
   filter(as.numeric(rt) > 300) %>%
@@ -230,6 +283,8 @@ In order to truly replicate Abado et al., we conducted split-wise analyses of at
 #| results: hide
 #| warning: false
 #| fig-keep: none
+#| include: !expr knitr::is_html_output()
+
 
 correct_trials <- filtered.data %>%
   filter(correct == "true")
@@ -298,7 +353,8 @@ plotsplithalferII <- plotsplithalferII + theme_fivethirtyeight(base_size = 8.5, 
 #| message: false
 #| results: hide
 #| warning: false
-#| fig-cap: Split-half reliabiliy plots split by time manipulation (left) and stimulus character (right).
+#| echo: false
+#| fig-cap: Split-half reliability plots split by time manipulation (left) and stimulus character (right).
 
 grid.arrange(plotsplithalferI, plotsplithalferII, ncol = 2, widths = c(2, 2), padding = unit(20, "px"))
 
@@ -312,6 +368,8 @@ Though we did not pre-register exploratory accuracy analyses, in the interest of
 #| title: "Preprocessing V: Formatting/Typings"
 #| results: hide
 #| warning: false
+#| include: !expr knitr::is_html_output()
+
 
 ## This is the code we used to double-check the typing and further drill our dataset down to the parameters of interest.
 
@@ -341,11 +399,10 @@ filtered.data_plusanovagroups$individual_subject_mean_rt <- as.numeric(filtered.
 ```
 
 ```{r, fig.ext='svg', dev='transparent_svg'}
-#| label: fig-saccuracy
+#| label: avg. accuracy analysis
 #| message: false
 #| warning: false
-#| fig-cap: Mean accuracy by type of trial
-
+#| include: !expr knitr::is_html_output()
 
 options(scipen = 999)
 model_accuracyanova <- aov(number_correct ~ blocktype * distractortype * time_manipulation + Error(unique_identifier), data = filtered.data_plusanovagroups)
@@ -394,14 +451,29 @@ meandamage <- ggplot(filtered.data_plusanovagroups_pretty, aes(x = task, y = sub
 df_for_publication_2 <- df_posthoc_pairwisecomps_accuracy %>%
   filter(p.value < 0.05)
 
+```
+
+```{r, fig.ext='svg', dev='transparent_svg'}
+#| label: fig-saccuracy
+#| message: false
+#| warning: false
+#| fig-cap: Mean accuracy by type of trial
+#| echo: false
+
+
 print(meandamage)
 ```
 
 ```{r}
-#| label: printup 
+#| label: dataframe for printing 
+#| echo: false
+#| message: false
+#| warning: false
+
+
 
 df_for_publication_2 <- setNames(df_for_publication_2, c("Comparison","Estimate","SE", "df", "T-ratio", "P-Value", "Is within time window?", "Is within stimulus category"))
-knitr::kable(df_for_publication_2, "html") %>%
+knitr::kable(df_for_publication_2) %>%
   kableExtra::kable_styling(full_width = FALSE)
 ```
 
@@ -410,12 +482,10 @@ knitr::kable(df_for_publication_2, "html") %>%
 Focusing our attention to areas of interest, we then averaged reaction times by subject (across trials) along each of the three independent variables of interest: stimulus origin (ontogenetic/phylogenetic), discrepant type (threatening/non-threatening), and time manipulation (2500ms/800ms). We used these to visually gain a sense of general patterns in the data, as visible in Figure 5.
 
 ```{r, fig.ext='svg', dev='transparent_svg'}
-#| label: fig-janmeanslol 
+#| label: mean filters descriptive 
 #| message: false
-#| fig-keep: last
 #| warning: false
-#| fig-cap: Average reaction time as a function of time manipulation and stimulus origin. These box and whisker plots show mean instead of median, as well as standard deviation in lieu of first and third IQRs"
-
+#| include: !expr knitr::is_html_output()
 
 ## Graphs and Plots / Remappings for ggplot - main graph of means and the like to visualize what patterns of interest are encapsulated by the anova.
 
@@ -466,6 +536,15 @@ new_graph <- ggplot(aes_data, aes(x = blocktype, y = middle, color = time_manipu
         legend.background = element_rect(fill = "transparent", color = NA)) +
   ylab("Reaction Time (ms)") +
   labs(caption = "Note: Box and Whisker plot modified from default ggplot2 to put means in place of medians, and Standard Deviation in lieu of 1st/3rd IQR")
+```
+
+```{r, fig.ext='svg', dev='transparent_svg'}
+#| label: figure-janmeans 
+#| message: false
+#| fig-keep: last
+#| warning: false
+#| echo: false
+#| fig-cap: Average reaction time as a function of time manipulation and stimulus origin. These box and whisker plots show mean instead of median, as well as standard deviation in lieu of first and third IQRs"
 
 print(new_graph)
 ```
@@ -474,26 +553,19 @@ print(new_graph)
 
 We then conducted a repeated-measures 3x2 *ANOVA* on reaction time (with dF=40 residuals for within-subjects random factors, and dF=6 between-subjects interactions between our IVs). We pre-registered a 2x2 *RMANOVA* because we originally intended to combine origin type and discrepant type into one independent variable. However, after data collection, we realized that initializing a comparison involving time manipulation, origin type, and discrepant type separately would provide more granular insight as to the extent of effects on reaction time contributed by each variable.
 
-In our *RMANOVA*, we failed to find a significant effect of stimulus origin type on the patterns of reaction time exhibited by participants across all trials (*F*=0.077, *p*=0.7819; compare to Abado et al.’s *F*=10.88, *p*=0.001). Inconsistent with Abado et al., this suggests that participants did not respond at a different speed solely depending on whether a stimulus was made up of organically-occurring images or man-made images. We found a highly significant impact of our time manipulation on the speed of subjects’ responses (*F*=194.616, *p*\<0.0001), suggesting that participants responded faster when a stimulus was shown for 800ms compared to 2500ms. Also, we unsurprisingly found a highly significant impact on variance within reaction time of threatening relative to non-threatening discrepants in stimuli (*F*=34.508, *p* \< .0001; compare to Abado et al.’s *F*=18.07, *p* \< 0.001). This effect, consistent with and even greater than Abado et al.’s observed effect, suggests that participants responded faster when the discrepant image in a stimulus was a threat compared to when it was a non-threat. While important to note, especially in regards to replicating Abado et al., none of these findings directly concern the research question at hand.
+In our *RMANOVA*, we failed to find a significant effect of stimulus origin type on the patterns of reaction time exhibited by participants across all trials (*F*=0.077, *p*=0.7819; compare to Abado et al.'s *F*=10.88, *p*=0.001). Inconsistent with Abado et al., this suggests that participants did not respond at a different speed solely depending on whether a stimulus was made up of organically-occurring images or man-made images. We found a highly significant impact of our time manipulation on the speed of subjects' responses (*F*=194.616, *p*\<0.0001), suggesting that participants responded faster when a stimulus was shown for 800ms compared to 2500ms. Also, we unsurprisingly found a highly significant impact on variance within reaction time of threatening relative to non-threatening discrepants in stimuli (*F*=34.508, *p* \< .0001; compare to Abado et al.'s *F*=18.07, *p* \< 0.001). This effect, consistent with and even greater than Abado et al.'s observed effect, suggests that participants responded faster when the discrepant image in a stimulus was a threat compared to when it was a non-threat. While important to note, especially in regards to replicating Abado et al., none of these findings directly concern the research question at hand.
 
-Most relevant in our *RMANOVA* to our hypotheses, we found a significant interaction effect between origin type and discrepant type on reaction time (*F*=6.285, *p*=0.0127; compare to Abado et al.’s *F*=173.75, *p* \< 0.001), though the effect was not as large nor as significant as Abado et al.’s observed effect. Tentatively consistent with Abado et al., this suggests that origin type and discrepant type, in combination, affect reaction times in a way that cannot be explained by the individual effects of each factor alone. We used post-hoc pairwise comparisons to uncover more information related to this finding.
+Most relevant in our *RMANOVA* to our hypotheses, we found a significant interaction effect between origin type and discrepant type on reaction time (*F*=6.285, *p*=0.0127; compare to Abado et al.'s *F*=173.75, *p* \< 0.001), though the effect was not as large nor as significant as Abado et al.'s observed effect. Tentatively consistent with Abado et al., this suggests that origin type and discrepant type, in combination, affect reaction times in a way that cannot be explained by the individual effects of each factor alone. We used post-hoc pairwise comparisons to uncover more information related to this finding.
 
 ```{r}
 #| label: "Main Analysis II: Three by Two RMANOVA and pairwise t tests"
-#| description: A three by two repeated measures analysis of variance (RMANOVA) used with the discrepant (threatening, neutral) and the stimulus type (phylogenetic, ontogenetic), both within-subjects. If the presentation time manipulation itself has an effect on reaction time–which indicates that judgment may be at play instead of perception—then the ANOVA should show that a greater proportion of the variance is explained in terms of between-subject factors than within-subject factors. This column returns #| #| 
+#| description: A three by two repeated measures analysis of variance (RMANOVA) used with the discrepant (threatening, neutral) and the stimulus type (phylogenetic, ontogenetic), both within-subjects. If the presentation time manipulation itself has an effect on reaction time–which indicates that judgment may be at play instead of perception—then the ANOVA should show that a greater proportion of the variance is explained in terms of between-subject factors than within-subject factors. 
 #| warning: false
-
+#| include: !expr knitr::is_html_output()
 
 model_rmanova <- aov(individual_subject_mean_rt ~ blocktype * distractortype * time_manipulation + Error(unique_identifier), data = filtered.data_plusanovagroups)
 
 testanova <- summary(model_rmanova)
-
-knitr::kable(as.data.frame(testanova[["Error: unique_identifier"]][[1]]), "html") %>%
-  kableExtra::kable_styling(full_width = FALSE)
-
-knitr::kable(as.data.frame(testanova[["Error: Within"]][[1]]), "html") %>%
-  kableExtra::kable_styling(full_width = FALSE)
-
 
 emm_res <- emmeans(model_rmanova, ~ blocktype * distractortype * time_manipulation)
 posthoc_pairwisecomp_main <- pairs(emm_res, adjust = "tukey")
@@ -547,14 +619,26 @@ dfscratch <- dfscratch %>%
 #remove unwanted columns
 dfscratch <- dfscratch %>%
   select("Comparison", "Estimate (ms)", "T-ratio", "P-value")
+```
 
-knitr::kable(dfscratch, "html") %>%
+```{r}
+#| label: "Main Analysis II: Dataframe Print"
+#| echo: false
+
+
+knitr::kable(as.data.frame(testanova[["Error: unique_identifier"]][[1]])) %>%
+  kableExtra::kable_styling(full_width = FALSE)
+
+knitr::kable(as.data.frame(testanova[["Error: Within"]][[1]])) %>%
+  kableExtra::kable_styling(full_width = FALSE)
+
+knitr::kable(dfscratch) %>%
   kableExtra::kable_styling(full_width = FALSE)
 ```
 
-While we did not pre-register post-hoc pairwise comparisons, we realized after data collection that these would be integral to our assessment of whether we replicated the crucial findings in Abado et al. (2023). They informed us of each individual interaction amongst the variables in the data, providing directionality and a measure of significance in each comparison. Using Tukey HSD as the test statistic in these comparisons, we found that participants’ average detection of spiders was about 243.91ms faster than of birds in the 2500ms time condition (SE=47.46, dF=280, *t*=5.140, *p*\<0.0001) and about 153.817ms faster in the 800ms time condition (SE=47.45, d*F*=280, *t*=3.242, *p*=0.0287). This suggests that, on average, participants detected phylogenetic threats faster than phylogenetic non-threats in both time conditions. These two effects were consistent with and of even greater effect sizes than Abado et al.’s finding of a 136.13ms faster reaction time to spiders than to birds (*p*\<0.001), although it is notable that the statistical significance of the effect in our 800ms condition was much less robust than the effect in our 2500ms condition or Abado et al.’s finding.
+While we did not pre-register post-hoc pairwise comparisons, we realized after data collection that these would be integral to our assessment of whether we replicated the crucial findings in Abado et al. (2023). They informed us of each individual interaction amongst the variables in the data, providing directionality and a measure of significance in each comparison. Using Tukey HSD as the test statistic in these comparisons, we found that participants' average detection of spiders was about 243.91ms faster than of birds in the 2500ms time condition (SE=47.46, dF=280, *t*=5.140, *p*\<0.0001) and about 153.817ms faster in the 800ms time condition (SE=47.45, d*F*=280, *t*=3.242, *p*=0.0287). This suggests that, on average, participants detected phylogenetic threats faster than phylogenetic non-threats in both time conditions. These two effects were consistent with and of even greater effect sizes than Abado et al.'s finding of a 136.13ms faster reaction time to spiders than to birds (*p*\<0.001), although it is notable that the statistical significance of the effect in our 800ms condition was much less robust than the effect in our 2500ms condition or Abado et al.'s finding.
 
-We did not find any statistically significant difference in average detection of guns and telephones in either time condition (for the 2500ms condition: *t*=2.1716, *p*=0.372; and the 800ms condition: *t*=1.1956, *p*=0.933; Abado et al.’s effect size unknown, *p*\>0.05). Also consistent with Abado et al.’s finding, this suggests that, on average, participants did not detect ontogenetic threats faster than ontogenetic non-threats. These findings tentatively both replicate Abado et al. and suggest that participants showed an attention bias towards phylogenetic threats even when the duration for which they saw a stimulus was not long enough for judgment processes to occur.
+We did not find any statistically significant difference in average detection of guns and telephones in either time condition (for the 2500ms condition: *t*=2.1716, *p*=0.372; and the 800ms condition: *t*=1.1956, *p*=0.933; Abado et al.'s effect size unknown, *p*\>0.05). Also consistent with Abado et al.'s finding, this suggests that, on average, participants did not detect ontogenetic threats faster than ontogenetic non-threats. These findings tentatively both replicate Abado et al. and suggest that participants showed an attention bias towards phylogenetic threats even when the duration for which they saw a stimulus was not long enough for judgment processes to occur.
 
 We also found that participants detected phylogenetic threats 152.44ms faster, on average, than ontogenetic non-threats in the 2500ms time condition (*t*=3.2125, *p*=0.0314), and that they detected ontogenetic threats 194.51ms faster, on average, than phylogenetic threats in the 2500ms time condition (*t*=4.099, *p*\<0.001). Neither of these findings, though, are relevant to the research question at hand, and Abado et al. did not discuss findings like these.
 
@@ -569,6 +653,8 @@ We pre-registered that we would use Bayesian general mixed modeling to assess wh
 #| results: hide
 #| warning: false
 #| fig-keep: none
+#| include: !expr knitr::is_html_output()
+
 
 # model terms are block type and distractor type (effects combined constitute all trial stimulus configurations) and random subject intercepts
 bayes_model_1 <- brm(
@@ -603,18 +689,17 @@ comparison_2 <- bayes_factor(bayes_model_2, bayes_model_1)
 
 prior_posterior_threat_stimulustype <- pp_check(bayes_model_1)
 prior_posterior_timecheck <- pp_check(bayes_model_2)
-
 ```
 
-The first mixed model, which was ran and assembled using the *BRMS* package [see @Buerkner2017], only included time manipulation and random subject intercepts, while the second added the two factors of stimulus origin type and discrepant type atop random subject intercepts to the analysis. Rather than assume a standard unit, we used a shifted lognormal distribution to best explain latent sampling variation in reaction time tasks. This distribution is often regarded as a better fit for real world distributions of reaction time data than traditional normality-assumptive priors [see @Wagenmakers2007 and @Rouder2005] Per the prior and posterior estimates given in Figure 6 and Figure 7, this shape fit the observed distribution of our reaction time data quite well, suggesting that the shifted lognormal distribution was an appropriate choice.
+The first mixed model, which was ran and assembled using the *BRMS* package [see @Buerkner2017], only included time manipulation and random subject intercepts, while the second added the two factors of stimulus origin type and discrepant type atop random subject intercepts to the analysis. Rather than assume a standard unit, we used a shifted lognormal distribution to best explain latent sampling variation in reaction time tasks. This distribution is often regarded as a better fit for real world distributions of reaction time data than traditional normality-assumptive priors [@Wagenmakers2007; @Rouder2005]. Per the prior and posterior estimates given in Figure 6 and Figure 7, this shape fit the observed distribution of our reaction time data quite well, suggesting that the shifted lognormal distribution was an appropriate choice.
 
 ```{r, fig.ext='svg', dev='transparent_svg'}
-#| label: fig-alttc 
+#| label: recolors
 #| description: Recolors and standardizes appearance of default bayesplot mappings for prior-posterior odds evaluation. Also labels things a bit more clearly unit-wise.
 #| message: false
 #| warning: false
 #| results: hide
-#| fig-cap: Prior-posterior checks for time manipulation with random subject effects on reaction time. A sample of 50 Markov Chain Monte Carlo runs beneath the observed distribution.
+#| include: !expr knitr::is_html_output()
 
 
 #"Pretty Pictures II: Recolor and Clarify pp_check"
@@ -638,6 +723,17 @@ altst <- prior_posterior_threat_stimulustype + theme_fivethirtyeight(base_size =
   ylab("cumulative proportion of total") +
   xlab("reaction time (ms)") +
   scale_color_paletteer_d("beyonce::X101", labels = c('observed data', 'modeled'))
+```
+
+```{r, fig.ext='svg', dev='transparent_svg'}
+#| label: fig-alttc
+#| description: Recolors and standardizes appearance of default bayesplot mappings for prior-posterior odds evaluation. Also labels things a bit more clearly unit-wise.
+#| message: false
+#| warning: false
+#| results: hide
+#| fig-cap: Prior-posterior checks for time manipulation with random subject effects on reaction time. A sample of 50 Markov Chain Monte Carlo runs beneath the observed distribution.
+#| echo: false
+
 
 print(alttc)
 ```
@@ -648,7 +744,9 @@ print(alttc)
 #| message: false
 #| warning: false
 #| results: hide
+#| echo: false
 #| fig-cap: Prior-posterior checks for origin type and discrepant type interaction with random subject effects on reaction time. A sample of 50 Markov Chain Monte Carlo runs beneath the observed distribution.
+
 print(altst)
 ```
 
@@ -658,7 +756,7 @@ Because we did not have any prior expectations about directional changes in the 
 
 By conducting this study, we aimed to replicate the attention bias toward phylogenetic threats but not toward ontogenetic threats that Abado et al. (2023) observed. We also aimed to assess whether judgment, rather than just perception, plays a role in this effect. Towards this end, we looked at the differences in participant response times to stimuli when the stimuli contained threatening and non-threatening, phylogenetic and ontogenetic images. To assess the role of judgment processes, we performed these analyses with two presentation times of stimuli.
 
-Because our *RMANOVA* and pairwise comparisons found significant reaction time differences in the predicted directions, the data support Abado et al.’s attentional bias finding. Our observed effects were not as large nor as statistically significant as Abado et al.’s findings, but they were significant nonetheless. Thus, this study successfully replicated the findings of Abado et al., providing tentative evidence that U.S. adults indeed exhibit an attentional bias toward phylogenetic threats but not toward ontogenetic threats. Importantly, our results suggest that this bias may be driven by perceptual processes rather than judgment processes.
+Because our *RMANOVA* and pairwise comparisons found significant reaction time differences in the predicted directions, the data support Abado et al.'s attentional bias finding. Our observed effects were not as large nor as statistically significant as Abado et al.'s findings, but they were significant nonetheless. Thus, this study successfully replicated the findings of Abado et al., providing tentative evidence that U.S. adults indeed exhibit an attentional bias toward phylogenetic threats but not toward ontogenetic threats. Importantly, our results suggest that this bias may be driven by perceptual processes rather than judgment processes.
 
 ### Limitations and Future Research
 
@@ -668,11 +766,11 @@ To ensure that the results of this study and Abado et al.'s study are generaliza
 
 To continue investigation of whether this attention bias is a top-down effect, future researchers could use EEG technology during this visual discrimination task to directly record brain activity. This would allow researchers to better understand when the attention bias occurs in perceptual processes or afterwards. Also, conducting cross-cultural comparisons could shed light on how perceptual processes, including threat detection, vary across different cultural backgrounds. Such studies could help strengthen the universality of the findings, as cultural factors might influence responses to the same visual stimuli.
 
-In total, this study tentatively replicated Abado et al.’s (2023) attention bias finding, suggesting that U.S. adults show an attention bias toward phylogenetic threats but not toward ontogenetic threats. Moreover, this study also suggests that this attention bias is not a result of judgment processes and, therefore, is potentially occurring at the perceptual level. Future research could significantly advance our understanding of the mechanisms underlying visual discrimination, providing more robust and generalizable findings.
+In total, this study tentatively replicated Abado et al.'s (2023) attention bias finding, suggesting that U.S. adults show an attention bias toward phylogenetic threats but not toward ontogenetic threats. Moreover, this study also suggests that this attention bias is not a result of judgment processes and, therefore, is potentially occurring at the perceptual level. Future research could significantly advance our understanding of the mechanisms underlying visual discrimination, providing more robust and generalizable findings.
 
 ## Author Contributions
 
-All authors conceived of and developed the hypotheses and experiment design. M.F. wrote the experimental script and programmed the study. L.O. and J.H.A. sourced the stimuli images and L.O. connected the DataPipe to the study’s OSF page. J.H.A., Z.C., and J.A. pre-registered the experiment and obtained IRB exemption approval. L.O., Z.C., J.H.A., and J.L. made the experiment available to Prolific users. M.F. contributed most significantly to statistical analysis, with J.H.A., Z.C., and L.O. also contributing. M.F. and J.H.A. contributed to data visualization and quarto proofing. M.F., L.O., Z.C., and J.H.A., as well as several other Vassar College students piloted the experiment. J.H.A., M.F., L.O., and Z.C. contributed to initial drafting of this report. J.H.A facilitated editing and revising, with M.F., L.O., and Z.F. also contributing.
+All authors conceived of and developed the hypotheses and experiment design. M.F. wrote the experimental script and programmed the study. L.O. and J.H.A. sourced the stimuli images and L.O. connected the DataPipe to the study's OSF page. J.H.A., Z.C., and J.A. pre-registered the experiment and obtained IRB exemption approval. L.O., Z.C., J.H.A., and J.L. made the experiment available to Prolific users. M.F. contributed most significantly to statistical analysis, with J.H.A., Z.C., and L.O. also contributing. M.F. and J.H.A. contributed to data visualization and quarto proofing. M.F., L.O., Z.C., and J.H.A., as well as several other Vassar College students piloted the experiment. J.H.A., M.F., L.O., and Z.C. contributed to initial drafting of this report. J.H.A facilitated editing and revising, with M.F., L.O., and Z.F. also contributing.
 
 ## Funding
 

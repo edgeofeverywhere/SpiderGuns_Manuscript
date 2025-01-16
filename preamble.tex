@@ -1,0 +1,95 @@
+% Basic setup
+\usepackage{luatexbase}
+\usepackage{luacode}
+\usepackage{newunicodechar}
+
+% Set up Unicode-aware font handling
+\directlua{
+  luaotfload.add_fallback(
+    "emojifallback",
+    {
+      "NotoColorEmoji:mode=harf;"
+    }
+  )
+}
+
+\usepackage{fontspec}
+\usepackage{microtype}
+\usepackage{unicode-math}
+
+% Main document fonts
+\setmainfont{Spectral}[
+  Ligatures=TeX,
+  Scale=1.0
+]
+
+% Sans serif for figures only
+\setsansfont{Fira Sans}[
+  Scale=0.9,
+  Numbers=OldStyle
+]
+
+% Monospace font - reduced size
+\setmonofont{Fira Mono}[
+  Scale=0.8
+]
+
+% Title formatting
+\usepackage{titling}
+\pretitle{\begin{center}\LARGE\bfseries}
+\posttitle{\end{center}\vskip 0.5em}
+
+% Code blocks
+\usepackage{fvextra}
+\DefineVerbatimEnvironment{Verbatim}{Verbatim}{
+  breaklines=true,
+  breakanywhere=true,
+  frame=single,
+  rulecolor=\color{gray},
+  framesep=3mm,
+  baselinestretch=1.2,
+  fontsize=\footnotesize
+}
+
+% For figures
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{caption}
+\captionsetup[figure]{
+  font=sf,
+  labelfont={sf,bf}
+}
+
+% Tables
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{threeparttable}
+\usepackage{threeparttablex}
+\usepackage{colortbl}
+\usepackage{svg}
+\usepackage{epstopdf}
+
+% Table formatting
+\AtBeginEnvironment{longtable}{
+  \footnotesize
+}
+\AtBeginEnvironment{tabular}{
+  \footnotesize
+}
+
+% Misc
+\usepackage{xcolor}
+\usepackage[normalem]{ulem}
+\usepackage{csquotes}
+\usepackage{pdflscape}
+\usepackage{makecell}
+
+% Margins and paragraph spacing
+\setlength{\parindent}{1em}
+\setlength{\parskip}{0.5em}
+
+% Additional table width control
+\setlength{\tabcolsep}{4pt}
