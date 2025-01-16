@@ -30,18 +30,23 @@ on:
 permissions:
   contents: read
   packages: read
+  id-token: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
             
       - name: Install Nix
         uses: DeterminateSystems/nix-installer-action@main
-                      
+
+      - name: Enable Nix flakes
+        uses: DeterminateSystems/magic-nix-cache-action@main
+
       - name: Build documents
         run: |
+          nix flake check
           nix build \
             --show-trace \
             --verbose
@@ -50,7 +55,7 @@ jobs:
           
       - name: Upload artifacts
         if: always()
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: documents-and-logs
           path: artifacts/
